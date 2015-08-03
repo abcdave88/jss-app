@@ -135,6 +135,7 @@ body{
 }
 .col h2{
   color: rgba(21, 91, 170, 1);
+  letter-spacing: 5px;
 }
 
 .col2{
