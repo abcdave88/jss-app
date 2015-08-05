@@ -130,6 +130,10 @@ body{
   text-align: center;
 }
 
+.content-contain a{
+  text-decoration: none;
+}
+
 .col{
   /*border: 1px solid black;*/
   padding: 10px;
@@ -138,7 +142,7 @@ body{
   text-align: left;
   border-right: 2px solid rgba(21, 91, 170, 1);
 }
-.col h2{
+.content-contain h2{
   color: rgba(21, 91, 170, 1);
   letter-spacing: 5px;
 }
@@ -162,4 +166,9 @@ body{
 #jumbotron3 {
   display: visible;
   /*position: absolute;*/
+}
+
+.contact{
+  margin-bottom: -100px; 
+  text-align: left;
 }

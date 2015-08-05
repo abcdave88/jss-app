@@ -21,7 +21,7 @@ $(document).ready(function(){
 //   };
 
 // changeJumbo()
-//works
+//Changes image source//
 
 //not working
 // $('#jumbotron1').hide();
